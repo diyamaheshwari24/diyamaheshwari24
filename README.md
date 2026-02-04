@@ -1,4 +1,4 @@
-# Hi , I'm Diya Maheshwari:
+# Hey , I'm Diya Maheshwari
 <br>I’m a passionate AI / ML engineer who loves building practical, end-to-end systems , not just models that work on paper, but ones that actually ship 🚀<br/>
 <h3>🔹 What I Work On</h3>
 
