@@ -1,5 +1,15 @@
-# 💫 About Me:
-## Hi, I’m Diya Maheshwari<br>I’m a passionate AI / ML engineer who loves building practical, end-to-end systems — not just models that work on paper, but ones that actually ship 🚀<br/><br>#What I Work On:<br>1.Deep Learning & Advanced Machine Learning<br/><br>Designing and training robust models using modern deep learning architectures, with experience across supervised, self-supervised, and representation learning paradigms for structured and unstructured data.<br>2.Computer Vision & Generative Models<br/><br>Working with Convolutional Neural Networks (CNNs) for image understanding tasks and Generative Adversarial Networks (GANs) for data generation, augmentation, and representation learning.<br>3.Natural Language Processing & Large Language Models<br/><br>Building NLP pipelines and domain-specific LLM-based systems, including fine-tuning, prompt optimization, retrieval-augmented generation (RAG), and hallucination-aware inference for reliable text generation.<br>4.Applied AI for Healthcare<br/><br>Developing Health AI solutions focused on medical data analysis, decision support, and automation, with an emphasis on data integrity, model reliability, and ethical deployment in sensitive domains.<br>5.End-to-End AI Systems & Deployment<br/><br>Translating research ideas into production-ready systems by integrating data preprocessing, model training, evaluation, and inference APIs, with attention to scalability, reproducibility, and maintainability.<br>Areas of Technical Focus<br>Deep Learning · Machine Learning · CNNs · GANs · NLP · LLMs · Health AI · Explainable AI · Python · PyTorch · Transformers<br>🔹 Professional Presence<br>💼 LinkedIn: www.linkedin.com/in/diya-maheshwari2005<br>📫 Open to research collaborations, applied AI projects, and interdisciplinary problem-solving initiatives
+# Hi , I'm Diya Maheshwari:
+<br>I’m a passionate AI / ML engineer who loves building practical, end-to-end systems — not just models that work on paper, but ones that actually ship 🚀<br/>
+<br>#What I Work On:<br> 1.Deep Learning & Advanced Machine Learning<br/>
+Designing and training robust models using modern deep learning architectures, with experience across supervised, self-supervised, and representation learning paradigms for structured and unstructured data.
+2.Computer Vision & Generative Models<br/>
+Working with Convolutional Neural Networks (CNNs) for image understanding tasks and Generative Adversarial Networks (GANs) for data generation, augmentation, and representation learning.
+3.Natural Language Processing & Large Language Models<br/>
+Building NLP pipelines and domain-specific LLM-based systems, including fine-tuning, prompt optimization, retrieval-augmented generation (RAG), and hallucination-aware inference for reliable text generation.
+4.Applied AI for Healthcare<br/>
+Developing Health AI solutions focused on medical data analysis, decision support, and automation, with an emphasis on data integrity, model reliability, and ethical deployment in sensitive domains.
+5.End-to-End AI Systems & Deployment</br>
+Translating research ideas into production-ready systems by integrating data preprocessing, model training, evaluation, and inference APIs, with attention to scalability, reproducibility, and maintainability.🔹 Professional Presence<br>💼 LinkedIn: www.linkedin.com/in/diya-maheshwari2005<br>📫 Open to research collaborations, applied AI projects, and interdisciplinary problem-solving initiatives
 
 
 ## 🌐 Socials:
